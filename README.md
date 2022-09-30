@@ -1,3 +1,4 @@
 # projectj
 upstream
-iniital commit
+initial commit
+corrected
